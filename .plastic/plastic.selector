@@ -1,0 +1,4 @@
+repository "Gardening_Simulator@xrjam@cloud"
+  path "/"
+    br "/main"
+    co "/main"
